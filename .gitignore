@@ -1,0 +1,7 @@
+node_modules/ 
+.env 
+maln_venv/ 
+__pycache__/ 
+*.pyc 
+logs/ 
+.vscode/ 

@@ -1,0 +1,547 @@
+Region,Year,%_Stunted,Lower_Bound,Upper_Bound
+Eastern Africa,2000,49.1,48.1,50.1
+Middle Africa,2000,44.9,43.3,46.6
+Northern Africa,2000,28.3,26.4,30.3
+Southern Africa,2000,29.1,27.1,31.3
+Western Africa,2000,39.9,38.1,41.8
+Central Asia,2000,29.0,27.8,30.2
+Eastern Asia,2000,19.5,18.4,20.7
+Southern Asia,2000,48.3,46.5,50.2
+South-eastern Asia,2000,38.0,37.1,39.0
+Western Asia,2000,24.3,23.5,25.0
+Eastern Europe,2000,10.1,7.0,14.3
+Northern Europe,2000,4.3,2.3,7.7
+Southern Europe,2000,6.8,4.7,9.7
+Western Europe,2000,2.9,1.7,5.1
+Latin America and the Caribbean,2000,18.0,17.4,18.5
+Caribbean,2000,15.7,14.8,16.6
+Central America,2000,25.5,24.3,26.7
+South America,2000,14.7,14.1,15.4
+Oceania excluding Australia and New Zealand,2000,35.6,30.3,41.2
+Melanesia,2000,37.7,31.9,43.9
+Micronesia,2000,18.5,13.2,25.3
+Polynesia,2000,10.4,7.8,13.8
+Australia and New Zealand,2000,1.9,1.2,3.0
+Northern America,2000,3.2,2.8,3.7
+Northern America and Europe,2000,5.4,4.4,6.5
+North America,2000,3.2,2.8,3.7
+Latin America and the Caribbean,2000,18.0,17.4,18.5
+Caribbean,2000,15.7,14.8,16.6
+Central America,2000,25.5,24.3,26.7
+South America,2000,14.7,14.1,15.4
+Central Asia and Southern Asia,2000,47.7,45.9,49.5
+Central Asia,2000,29.0,27.8,30.2
+Southern Asia,2000,48.3,46.5,50.2
+Eastern Asia and South-Eastern Asia,2000,26.1,25.3,26.8
+Eastern Asia,2000,19.5,18.4,20.7
+South-eastern Asia,2000,38.0,37.1,39.0
+Western Asia and Northern Africa,2000,26.2,25.2,27.2
+Western Asia ,2000,24.3,23.5,25.0
+Northern Africa,2000,28.3,26.4,30.3
+Sub-Saharan Africa,2000,44.0,43.1,44.8
+Eastern Africa,2000,49.1,48.1,50.1
+Middle Africa,2000,44.9,43.3,46.6
+Southern Africa,2000,29.1,27.1,31.3
+Western Africa,2000,39.9,38.1,41.8
+Oceania excluding Australia and New Zealand,2000,35.6,30.3,41.2
+Australia and New Zealand,2000,1.9,1.2,3.0
+Landlocked developing countries (LLDCs),2000,46.9,46.0,47.7
+Small Island Developing States (SIDS),2000,21.3,20.1,22.6
+Least Developed Countries (LDCs),2000,49.4,48.8,50.1
+East Asia and the Pacific,2000,25.9,25.1,26.7
+Europe and Central Asia,2000,11.1,9.9,12.4
+Eastern Europe and Central Asia,2000,17.9,15.9,20.1
+Western Europe,2000,3.9,2.9,5.3
+Latin America and the Caribbean,2000,18.0,17.4,18.5
+Middle East and North Africa,2000,24.1,23.5,24.7
+North America,2000,3.2,2.8,3.7
+South Asia,2000,49.4,47.5,51.3
+Sub-Saharan Africa,2000,43.8,43.0,44.7
+East and Southern Africa,2000,46.4,45.4,47.5
+West and Central Africa,2000,41.1,39.6,42.5
+African Region,2000,43.6,42.8,44.5
+Region of the Americas,2000,13.9,13.5,14.4
+South-East Asia Region,2000,48.4,46.6,50.2
+Eastern Mediterranean Region,2000,33.9,32.6,35.3
+Europe Region,2000,11.0,9.9,12.3
+Western Pacific Region,2000,22.2,21.3,23.1
+Low income,2000,47.9,47.0,48.8
+Middle Income,2000,34.8,34.0,35.6
+Lower-middle income,2000,44.7,43.5,46.0
+Upper-middle income,2000,21.2,20.6,21.9
+High income,2000,4.8,4.2,5.4
+East Asia and Pacific,2000,25.7,24.9,26.5
+Europe and Central Asia,2000,11.1,9.9,12.4
+Latin America and the Caribbean,2000,18.0,17.4,18.5
+Middle East and North Africa,2000,24.1,23.5,24.7
+North America,2000,3.2,2.8,3.7
+South Asia,2000,49.4,47.5,51.3
+Sub-Saharan Africa,2000,43.9,43.0,44.8
+Eastern Africa,2005,45.2,44.4,46.1
+Middle Africa,2005,41.4,39.9,42.9
+Northern Africa,2005,26.1,24.9,27.3
+Southern Africa,2005,28.5,26.1,30.9
+Western Africa,2005,38.5,36.9,40.1
+Central Asia,2005,22.3,21.3,23.3
+Eastern Asia,2005,13.0,12.2,13.8
+Southern Asia,2005,46.2,44.0,48.4
+South-eastern Asia,2005,34.4,33.5,35.4
+Western Asia,2005,22.9,22.2,23.6
+Eastern Europe,2005,8.9,5.9,13.3
+Northern Europe,2005,4.0,2.2,7.2
+Southern Europe,2005,5.6,3.7,8.3
+Western Europe,2005,2.8,1.6,4.9
+Latin America and the Caribbean,2005,15.7,15.2,16.2
+Caribbean,2005,14.5,13.6,15.5
+Central America,2005,22.1,21.0,23.3
+South America,2005,12.8,12.2,13.3
+Oceania excluding Australia and New Zealand,2005,37.8,35.1,40.5
+Melanesia,2005,40.0,37.1,43.0
+Micronesia,2005,17.3,12.8,23.0
+Polynesia,2005,9.0,6.8,11.8
+Australia and New Zealand,2005,2.1,1.4,3.2
+Northern America,2005,2.8,2.5,3.2
+Northern America and Europe,2005,4.7,3.8,5.9
+North America,2005,2.8,2.5,3.2
+Latin America and the Caribbean,2005,15.7,15.2,16.2
+Caribbean,2005,14.5,13.6,15.5
+Central America,2005,22.1,21.0,23.3
+South America,2005,12.8,12.2,13.3
+Central Asia and Southern Asia,2005,45.5,43.3,47.6
+Central Asia,2005,22.3,21.3,23.3
+Southern Asia,2005,46.2,44.0,48.4
+Eastern Asia and South-Eastern Asia,2005,20.9,20.3,21.6
+Eastern Asia,2005,13.0,12.2,13.8
+South-eastern Asia,2005,34.4,33.5,35.4
+Western Asia and Northern Africa,2005,24.4,23.7,25.1
+Western Asia ,2005,22.9,22.2,23.6
+Northern Africa,2005,26.1,24.9,27.3
+Sub-Saharan Africa,2005,41.3,40.5,42.0
+Eastern Africa,2005,45.2,44.4,46.1
+Middle Africa,2005,41.4,39.9,42.9
+Southern Africa,2005,28.5,26.1,30.9
+Western Africa,2005,38.5,36.9,40.1
+Oceania excluding Australia and New Zealand,2005,37.8,35.1,40.5
+Australia and New Zealand,2005,2.1,1.4,3.2
+Landlocked developing countries (LLDCs),2005,43.3,42.5,44.1
+Small Island Developing States (SIDS),2005,21.3,20.5,22.1
+Least Developed Countries (LDCs),2005,44.7,44.2,45.3
+East Asia and the Pacific,2005,20.9,20.3,21.5
+Europe and Central Asia,2005,9.3,8.1,10.6
+Eastern Europe and Central Asia,2005,14.9,12.8,17.1
+Western Europe,2005,3.6,2.6,4.9
+Latin America and the Caribbean,2005,15.7,15.2,16.2
+Middle East and North Africa,2005,21.7,21.1,22.3
+North America,2005,2.8,2.5,3.2
+South Asia,2005,47.4,45.1,49.7
+Sub-Saharan Africa,2005,41.2,40.4,41.9
+East and Southern Africa,2005,42.7,41.9,43.5
+West and Central Africa,2005,39.6,38.3,40.8
+African Region,2005,40.9,40.2,41.7
+Region of the Americas,2005,12.0,11.6,12.4
+South-East Asia Region,2005,45.6,43.4,47.8
+Eastern Mediterranean Region,2005,33.2,32.1,34.4
+Europe Region,2005,9.2,8.1,10.6
+Western Pacific Region,2005,16.6,15.9,17.2
+Low income,2005,44.8,44.1,45.6
+Middle Income,2005,31.9,31.0,32.8
+Lower-middle income,2005,42.2,40.7,43.6
+Upper-middle income,2005,17.0,16.5,17.6
+High income,2005,4.1,3.7,4.7
+East Asia and Pacific,2005,20.8,20.2,21.4
+Europe and Central Asia,2005,9.3,8.1,10.6
+Latin America and the Caribbean,2005,15.7,15.2,16.2
+Middle East and North Africa,2005,21.7,21.2,22.3
+North America,2005,2.8,2.5,3.2
+South Asia,2005,47.4,45.1,49.7
+Sub-Saharan Africa,2005,41.2,40.5,41.9
+Eastern Africa,2010,40.8,40.0,41.6
+Middle Africa,2010,38.7,37.4,39.9
+Northern Africa,2010,23.8,22.9,24.8
+Southern Africa,2010,25.0,23.2,26.9
+Western Africa,2010,36.1,34.8,37.4
+Central Asia,2010,17.1,16.3,18.0
+Eastern Asia,2010,8.8,8.3,9.4
+Southern Asia,2010,42.6,40.6,44.6
+South-eastern Asia,2010,31.6,30.7,32.6
+Western Asia,2010,19.3,18.7,19.9
+Eastern Europe,2010,8.0,5.3,12.1
+Northern Europe,2010,3.6,1.9,6.6
+Southern Europe,2010,4.7,3.1,7.1
+Western Europe,2010,2.7,1.5,4.5
+Latin America and the Caribbean,2010,13.5,13.0,14.0
+Caribbean,2010,13.7,12.8,14.6
+Central America,2010,18.8,17.9,19.8
+South America,2010,10.9,10.3,11.5
+Oceania excluding Australia and New Zealand,2010,40.0,37.3,42.7
+Melanesia,2010,42.3,39.5,45.2
+Micronesia,2010,17.0,13.1,21.9
+Polynesia,2010,8.1,6.4,10.2
+Australia and New Zealand,2010,2.4,1.7,3.3
+Northern America,2010,2.7,2.4,3.1
+Northern America and Europe,2010,4.4,3.5,5.5
+North America,2010,2.7,2.4,3.1
+Latin America and the Caribbean,2010,13.5,13.0,14.0
+Caribbean,2010,13.7,12.8,14.6
+Central America,2010,18.8,17.9,19.8
+South America,2010,10.9,10.3,11.5
+Central Asia and Southern Asia,2010,41.7,39.8,43.6
+Central Asia,2010,17.1,16.3,18.0
+Southern Asia,2010,42.6,40.6,44.6
+Eastern Asia and South-Eastern Asia,2010,17.3,16.8,17.8
+Eastern Asia,2010,8.8,8.3,9.4
+South-eastern Asia,2010,31.6,30.7,32.6
+Western Asia and Northern Africa,2010,21.5,20.9,22.1
+Western Asia ,2010,19.3,18.7,19.9
+Northern Africa,2010,23.8,22.9,24.8
+Sub-Saharan Africa,2010,37.9,37.3,38.6
+Eastern Africa,2010,40.8,40.0,41.6
+Middle Africa,2010,38.7,37.4,39.9
+Southern Africa,2010,25.0,23.2,26.9
+Western Africa,2010,36.1,34.8,37.4
+Oceania excluding Australia and New Zealand,2010,40.0,37.3,42.7
+Australia and New Zealand,2010,2.4,1.7,3.3
+Landlocked developing countries (LLDCs),2010,38.4,37.7,39.1
+Small Island Developing States (SIDS),2010,21.4,20.6,22.2
+Least Developed Countries (LDCs),2010,40.4,39.9,41.0
+East Asia and the Pacific,2010,17.3,16.8,17.8
+Europe and Central Asia,2010,7.7,6.6,8.9
+Eastern Europe and Central Asia,2010,11.7,9.8,13.8
+Western Europe,2010,3.3,2.4,4.4
+Latin America and the Caribbean,2010,13.5,13.0,14.0
+Middle East and North Africa,2010,19.1,18.5,19.7
+North America,2010,2.7,2.4,3.1
+South Asia,2010,43.8,41.8,45.9
+Sub-Saharan Africa,2010,37.9,37.3,38.5
+East and Southern Africa,2010,38.6,37.9,39.3
+West and Central Africa,2010,37.2,36.1,38.2
+African Region,2010,37.4,36.8,38.1
+Region of the Americas,2010,10.3,9.9,10.6
+South-East Asia Region,2010,41.6,39.7,43.6
+Eastern Mediterranean Region,2010,31.4,30.5,32.4
+Europe Region,2010,7.6,6.5,8.8
+Western Pacific Region,2010,12.9,12.5,13.4
+Low income,2010,41.1,40.4,41.7
+Middle Income,2010,28.6,27.8,29.3
+Lower-middle income,2010,38.5,37.2,39.7
+Upper-middle income,2010,13.9,13.4,14.4
+High income,2010,3.8,3.4,4.2
+East Asia and Pacific,2010,17.2,16.7,17.7
+Europe and Central Asia,2010,7.7,6.6,8.9
+Latin America and the Caribbean,2010,13.5,13.0,14.0
+Middle East and North Africa,2010,19.1,18.6,19.7
+North America,2010,2.7,2.4,3.1
+South Asia,2010,43.8,41.8,45.9
+Sub-Saharan Africa,2010,37.9,37.3,38.5
+Eastern Africa,2012,39.8,39.1,40.6
+Middle Africa,2012,38.3,37.1,39.6
+Northern Africa,2012,23.3,22.3,24.3
+Southern Africa,2012,24.6,22.9,26.4
+Western Africa,2012,35.5,34.3,36.7
+Central Asia,2012,16.2,15.4,17.0
+Eastern Asia,2012,8.1,7.6,8.6
+Southern Asia,2012,41.4,39.6,43.2
+South-eastern Asia,2012,31.1,30.1,32.0
+Western Asia,2012,18.5,17.9,19.2
+Eastern Europe,2012,8.0,5.4,11.8
+Northern Europe,2012,3.5,1.9,6.3
+Southern Europe,2012,4.6,3.0,6.9
+Western Europe,2012,2.6,1.5,4.5
+Latin America and the Caribbean,2012,13.1,12.6,13.6
+Caribbean,2012,13.5,12.6,14.3
+Central America,2012,18.3,17.5,19.1
+South America,2012,10.5,9.9,11.2
+Oceania excluding Australia and New Zealand,2012,40.2,37.2,43.2
+Melanesia,2012,42.6,39.3,45.9
+Micronesia,2012,16.7,13.0,21.3
+Polynesia,2012,7.8,6.2,9.8
+Australia and New Zealand,2012,2.4,1.7,3.3
+Northern America,2012,2.7,2.4,3.1
+Northern America and Europe,2012,4.4,3.6,5.4
+North America,2012,2.7,2.4,3.1
+Latin America and the Caribbean,2012,13.1,12.6,13.6
+Caribbean,2012,13.5,12.6,14.3
+Central America,2012,18.3,17.5,19.1
+South America,2012,10.5,9.9,11.2
+Central Asia and Southern Asia,2012,40.5,38.7,42.2
+Central Asia,2012,16.2,15.4,17.0
+Southern Asia,2012,41.4,39.6,43.2
+Eastern Asia and South-Eastern Asia,2012,16.6,16.1,17.1
+Eastern Asia,2012,8.1,7.6,8.6
+South-eastern Asia,2012,31.1,30.1,32.0
+Western Asia and Northern Africa,2012,20.8,20.2,21.4
+Western Asia ,2012,18.5,17.9,19.2
+Northern Africa,2012,23.3,22.3,24.3
+Sub-Saharan Africa,2012,37.2,36.6,37.8
+Eastern Africa,2012,39.8,39.1,40.6
+Middle Africa,2012,38.3,37.1,39.6
+Southern Africa,2012,24.6,22.9,26.4
+Western Africa,2012,35.5,34.3,36.7
+Oceania excluding Australia and New Zealand,2012,40.2,37.2,43.2
+Australia and New Zealand,2012,2.4,1.7,3.3
+Landlocked developing countries (LLDCs),2012,37.3,36.6,37.9
+Small Island Developing States (SIDS),2012,21.3,20.4,22.1
+Least Developed Countries (LDCs),2012,39.6,39.2,40.1
+East Asia and the Pacific,2012,16.6,16.2,17.1
+Europe and Central Asia,2012,7.5,6.4,8.6
+Eastern Europe and Central Asia,2012,11.3,9.5,13.3
+Western Europe,2012,3.2,2.4,4.3
+Latin America and the Caribbean,2012,13.1,12.6,13.6
+Middle East and North Africa,2012,18.5,17.9,19.2
+North America,2012,2.7,2.4,3.1
+South Asia,2012,42.7,40.8,44.6
+Sub-Saharan Africa,2012,37.2,36.6,37.8
+East and Southern Africa,2012,37.8,37.1,38.4
+West and Central Africa,2012,36.6,35.7,37.6
+African Region,2012,36.7,36.1,37.3
+Region of the Americas,2012,10.0,9.7,10.4
+South-East Asia Region,2012,40.4,38.6,42.2
+Eastern Mediterranean Region,2012,30.9,29.9,31.8
+Europe Region,2012,7.4,6.4,8.6
+Western Pacific Region,2012,12.3,11.9,12.8
+Low income,2012,40.3,39.7,40.9
+Middle Income,2012,27.7,27.0,28.4
+Lower-middle income,2012,37.4,36.3,38.6
+Upper-middle income,2012,13.3,12.9,13.8
+High income,2012,3.7,3.3,4.2
+East Asia and Pacific,2012,16.5,16.1,17.0
+Europe and Central Asia,2012,7.5,6.4,8.6
+Latin America and the Caribbean,2012,13.1,12.6,13.6
+Middle East and North Africa,2012,18.5,17.9,19.2
+North America,2012,2.7,2.4,3.1
+South Asia,2012,42.7,40.8,44.6
+Sub-Saharan Africa,2012,37.2,36.6,37.8
+Eastern Africa,2015,38.9,38.2,39.6
+Middle Africa,2015,38.0,36.8,39.3
+Northern Africa,2015,22.7,21.7,23.8
+Southern Africa,2015,24.3,22.8,25.9
+Western Africa,2015,34.9,33.8,36.0
+Central Asia,2015,15.4,14.6,16.1
+Eastern Asia,2015,7.5,7.1,8.0
+Southern Asia,2015,40.2,38.6,41.8
+South-eastern Asia,2015,30.5,29.6,31.4
+Western Asia,2015,17.8,17.2,18.5
+Eastern Europe,2015,7.9,5.2,11.7
+Northern Europe,2015,3.4,1.9,6.2
+Southern Europe,2015,4.5,3.0,6.7
+Western Europe,2015,2.6,1.5,4.4
+Latin America and the Caribbean,2015,12.8,12.2,13.3
+Caribbean,2015,13.2,12.4,14.1
+Central America,2015,17.9,17.1,18.7
+South America,2015,10.2,9.5,10.9
+Oceania excluding Australia and New Zealand,2015,40.3,36.9,43.7
+Melanesia,2015,42.7,39.0,46.4
+Micronesia,2015,16.5,12.8,21.0
+Polynesia,2015,7.5,6.0,9.4
+Australia and New Zealand,2015,2.4,1.7,3.3
+Northern America,2015,2.8,2.5,3.1
+Northern America and Europe,2015,4.4,3.5,5.4
+North America,2015,2.8,2.5,3.1
+Latin America and the Caribbean,2015,12.8,12.2,13.3
+Caribbean,2015,13.2,12.4,14.1
+Central America,2015,17.9,17.1,18.7
+South America,2015,10.2,9.5,10.9
+Central Asia and Southern Asia,2015,39.2,37.7,40.8
+Central Asia,2015,15.4,14.6,16.1
+Southern Asia,2015,40.2,38.6,41.8
+Eastern Asia and South-Eastern Asia,2015,16.0,15.6,16.5
+Eastern Asia,2015,7.5,7.1,8.0
+South-eastern Asia,2015,30.5,29.6,31.4
+Western Asia and Northern Africa,2015,20.3,19.6,20.9
+Western Asia ,2015,17.8,17.2,18.5
+Northern Africa,2015,22.7,21.7,23.8
+Sub-Saharan Africa,2015,36.6,36.0,37.1
+Eastern Africa,2015,38.9,38.2,39.6
+Middle Africa,2015,38.0,36.8,39.3
+Southern Africa,2015,24.3,22.8,25.9
+Western Africa,2015,34.9,33.8,36.0
+Oceania excluding Australia and New Zealand,2015,40.3,36.9,43.7
+Australia and New Zealand,2015,2.4,1.7,3.3
+Landlocked developing countries (LLDCs),2015,36.2,35.6,36.8
+Small Island Developing States (SIDS),2015,21.1,20.2,22.0
+Least Developed Countries (LDCs),2015,38.9,38.4,39.3
+East Asia and the Pacific,2015,16.1,15.6,16.5
+Europe and Central Asia,2015,7.3,6.2,8.5
+Eastern Europe and Central Asia,2015,10.9,9.1,12.9
+Western Europe,2015,3.2,2.4,4.2
+Latin America and the Caribbean,2015,12.8,12.2,13.3
+Middle East and North Africa,2015,18.0,17.4,18.7
+North America,2015,2.8,2.5,3.1
+South Asia,2015,41.4,39.8,43.1
+Sub-Saharan Africa,2015,36.6,36.0,37.1
+East and Southern Africa,2015,37.0,36.4,37.6
+West and Central Africa,2015,36.1,35.2,37.0
+African Region,2015,36.0,35.5,36.6
+Region of the Americas,2015,9.8,9.4,10.2
+South-East Asia Region,2015,39.2,37.5,40.8
+Eastern Mediterranean Region,2015,30.3,29.4,31.2
+Europe Region,2015,7.2,6.2,8.4
+Western Pacific Region,2015,11.8,11.4,12.2
+Low income,2015,39.6,39.1,40.2
+Middle Income,2015,26.8,26.2,27.4
+Lower-middle income,2015,36.3,35.3,37.3
+Upper-middle income,2015,12.8,12.4,13.3
+High income,2015,3.7,3.3,4.1
+East Asia and Pacific,2015,16.0,15.6,16.4
+Europe and Central Asia,2015,7.3,6.2,8.5
+Latin America and the Caribbean,2015,12.8,12.2,13.3
+Middle East and North Africa,2015,18.0,17.4,18.7
+North America,2015,2.8,2.5,3.1
+South Asia,2015,41.4,39.8,43.1
+Sub-Saharan Africa,2015,36.6,36.0,37.1
+Eastern Africa,2019,38.0,37.2,38.7
+Middle Africa,2019,37.8,36.6,39.1
+Northern Africa,2019,22.4,21.3,23.5
+Southern Africa,2019,24.0,22.6,25.5
+Western Africa,2019,34.3,33.4,35.3
+Central Asia,2019,14.5,13.8,15.3
+Eastern Asia,2019,7.0,6.6,7.5
+Southern Asia,2019,38.9,37.5,40.4
+South-eastern Asia,2019,30.0,29.1,30.9
+Western Asia,2019,17.2,16.5,18.0
+Eastern Europe,2019,7.7,5.0,11.6
+Northern Europe,2019,3.3,1.8,6.0
+Southern Europe,2019,4.4,2.9,6.7
+Western Europe,2019,2.6,1.5,4.3
+Latin America and the Caribbean,2019,12.5,11.9,13.0
+Caribbean,2019,13.0,12.2,13.8
+Central America,2019,17.6,16.9,18.4
+South America,2019,9.9,9.1,10.6
+Oceania excluding Australia and New Zealand,2019,40.3,36.5,44.3
+Melanesia,2019,42.7,38.5,46.9
+Micronesia,2019,16.4,12.9,20.7
+Polynesia,2019,7.3,5.8,9.0
+Australia and New Zealand,2019,2.4,1.7,3.4
+Northern America,2019,2.8,2.5,3.2
+Northern America and Europe,2019,4.3,3.5,5.4
+North America,2019,2.8,2.5,3.2
+Latin America and the Caribbean,2019,12.5,11.9,13.0
+Caribbean,2019,13.0,12.2,13.8
+Central America,2019,17.6,16.9,18.4
+South America,2019,9.9,9.1,10.6
+Central Asia and Southern Asia,2019,37.9,36.5,39.4
+Central Asia,2019,14.5,13.8,15.3
+Southern Asia,2019,38.9,37.5,40.4
+Eastern Asia and South-Eastern Asia,2019,15.5,15.1,16.0
+Eastern Asia,2019,7.0,6.6,7.5
+South-eastern Asia,2019,30.0,29.1,30.9
+Western Asia and Northern Africa,2019,19.8,19.1,20.4
+Western Asia ,2019,17.2,16.5,18.0
+Northern Africa,2019,22.4,21.3,23.5
+Sub-Saharan Africa,2019,35.9,35.4,36.5
+Eastern Africa,2019,38.0,37.2,38.7
+Middle Africa,2019,37.8,36.6,39.1
+Southern Africa,2019,24.0,22.6,25.5
+Western Africa,2019,34.3,33.4,35.3
+Oceania excluding Australia and New Zealand,2019,40.3,36.5,44.3
+Australia and New Zealand,2019,2.4,1.7,3.4
+Landlocked developing countries (LLDCs),2019,35.2,34.7,35.8
+Small Island Developing States (SIDS),2019,20.9,19.9,21.9
+Least Developed Countries (LDCs),2019,38.1,37.7,38.6
+East Asia and the Pacific,2019,15.6,15.2,16.1
+Europe and Central Asia,2019,7.0,6.0,8.2
+Eastern Europe and Central Asia,2019,10.4,8.7,12.4
+Western Europe,2019,3.1,2.3,4.2
+Latin America and the Caribbean,2019,12.5,11.9,13.0
+Middle East and North Africa,2019,17.6,16.9,18.3
+North America,2019,2.8,2.5,3.2
+South Asia,2019,40.2,38.7,41.7
+Sub-Saharan Africa,2019,35.9,35.4,36.5
+East and Southern Africa,2019,36.3,35.7,36.9
+West and Central Africa,2019,35.6,34.8,36.4
+African Region,2019,35.4,34.9,35.9
+Region of the Americas,2019,9.6,9.2,10.0
+South-East Asia Region,2019,37.9,36.4,39.4
+Eastern Mediterranean Region,2019,29.7,28.8,30.6
+Europe Region,2019,7.0,6.0,8.2
+Western Pacific Region,2019,11.4,10.9,11.8
+Low income,2019,39.0,38.4,39.6
+Middle Income,2019,26.0,25.4,26.6
+Lower-middle income,2019,35.3,34.3,36.2
+Upper-middle income,2019,12.4,12.0,12.9
+High income,2019,3.6,3.2,4.1
+East Asia and Pacific,2019,15.5,15.1,16.0
+Europe and Central Asia,2019,7.1,6.0,8.2
+Latin America and the Caribbean,2019,12.5,11.9,13.0
+Middle East and North Africa,2019,17.6,16.9,18.3
+North America,2019,2.8,2.5,3.2
+South Asia,2019,40.2,38.7,41.7
+Sub-Saharan Africa,2019,35.9,35.4,36.5
+Eastern Africa,2020,37.1,36.3,37.8
+Middle Africa,2020,37.6,36.2,38.9
+Northern Africa,2020,22.1,20.8,23.4
+Southern Africa,2020,23.8,22.5,25.1
+Western Africa,2020,33.8,32.9,34.8
+Central Asia,2020,13.6,12.9,14.4
+Eastern Asia,2020,6.6,6.1,7.1
+Southern Asia,2020,37.7,36.3,39.2
+South-eastern Asia,2020,29.5,28.6,30.5
+Western Asia,2020,16.7,15.9,17.4
+Eastern Europe,2020,7.6,5.0,11.4
+Northern Europe,2020,3.2,1.8,5.9
+Southern Europe,2020,4.4,2.9,6.5
+Western Europe,2020,2.5,1.5,4.2
+Latin America and the Caribbean,2020,12.2,11.7,12.8
+Caribbean,2020,12.8,12.0,13.6
+Central America,2020,17.5,16.8,18.3
+South America,2020,9.6,8.7,10.5
+Oceania excluding Australia and New Zealand,2020,40.3,36.0,44.9
+Melanesia,2020,42.7,37.9,47.6
+Micronesia,2020,16.3,12.8,20.5
+Polynesia,2020,7.1,5.7,8.8
+Australia and New Zealand,2020,2.4,1.7,3.4
+Northern America,2020,2.9,2.5,3.2
+Northern America and Europe,2020,4.3,3.4,5.4
+North America,2020,2.9,2.5,3.2
+Latin America and the Caribbean,2020,12.2,11.7,12.8
+Caribbean,2020,12.8,12.0,13.6
+Central America,2020,17.5,16.8,18.3
+South America,2020,9.6,8.7,10.5
+Central Asia and Southern Asia,2020,36.7,35.3,38.1
+Central Asia,2020,13.6,12.9,14.4
+Southern Asia,2020,37.7,36.3,39.2
+Eastern Asia and South-Eastern Asia,2020,15.1,14.7,15.6
+Eastern Asia,2020,6.6,6.1,7.1
+South-eastern Asia,2020,29.5,28.6,30.5
+Western Asia and Northern Africa,2020,19.4,18.7,20.2
+Western Asia ,2020,16.7,15.9,17.4
+Northern Africa,2020,22.1,20.8,23.4
+Sub-Saharan Africa,2020,35.3,34.8,35.9
+Eastern Africa,2020,37.1,36.3,37.8
+Middle Africa,2020,37.6,36.2,38.9
+Southern Africa,2020,23.8,22.5,25.1
+Western Africa,2020,33.8,32.9,34.8
+Oceania excluding Australia and New Zealand,2020,40.3,36.0,44.9
+Australia and New Zealand,2020,2.4,1.7,3.4
+Landlocked developing countries (LLDCs),2020,34.3,33.7,34.9
+Small Island Developing States (SIDS),2020,20.8,19.7,21.9
+Least Developed Countries (LDCs),2020,37.4,36.9,37.9
+East Asia and the Pacific,2020,15.2,14.7,15.7
+Europe and Central Asia,2020,6.8,5.8,8.0
+Eastern Europe and Central Asia,2020,10.0,8.3,12.0
+Western Europe,2020,3.1,2.3,4.1
+Latin America and the Caribbean,2020,12.2,11.7,12.8
+Middle East and North Africa,2020,17.3,16.5,18.1
+North America,2020,2.9,2.5,3.2
+South Asia,2020,39.0,37.5,40.5
+Sub-Saharan Africa,2020,35.3,34.8,35.9
+East and Southern Africa,2020,35.6,34.9,36.2
+West and Central Africa,2020,35.1,34.3,35.9
+African Region,2020,34.8,34.3,35.3
+Region of the Americas,2020,9.5,9.1,9.9
+South-East Asia Region,2020,36.7,35.2,38.2
+Eastern Mediterranean Region,2020,29.1,28.2,30.1
+Europe Region,2020,6.8,5.8,7.9
+Western Pacific Region,2020,10.9,10.5,11.4
+Low income,2020,38.3,37.7,39.0
+Middle Income,2020,25.2,24.6,25.8
+Lower-middle income,2020,34.3,33.3,35.2
+Upper-middle income,2020,12.1,11.7,12.6
+High income,2020,3.6,3.2,4.0
+East Asia and Pacific,2020,15.1,14.7,15.6
+Europe and Central Asia,2020,6.8,5.8,8.0
+Latin America and the Caribbean,2020,12.2,11.7,12.8
+Middle East and North Africa,2020,17.3,16.5,18.1
+North America,2020,2.9,2.5,3.2
+South Asia,2020,39.0,37.5,40.5
+Sub-Saharan Africa,2020,35.4,34.8,35.9
